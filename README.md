@@ -7,7 +7,7 @@ SPiFT integrates **Atomic Force Microscopy (AFM)** with **Spatial Transcriptomic
 
 - **`tutorial/`**: Contains a step-by-step tutorial and walkthrough of the SPiFT workflow, including enviornment requirements, data preparation, and analysis.
 - **`human/`**: Scripts for analyzing human NSCLC tissue processed through SPiFT
-- **`murine/`**: Scripts for analyzing human NSCLC tissue processed through SPiFT
+- **`murine/`**: Scripts for analyzing murine NSCLC tissue processed through SPiFT
 - **`benchmarks/`**: Additional benchmark testing for SPiFT
 
 
