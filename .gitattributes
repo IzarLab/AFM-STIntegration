@@ -1,1 +1,2 @@
 tutorial/lib/* filter=lfs diff=lfs merge=lfs -text
+tutorial/lib/** filter=lfs diff=lfs merge=lfs -text
